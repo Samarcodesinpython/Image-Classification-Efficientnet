@@ -242,8 +242,7 @@ scene-classification-efficientnet/
 
 **Samar**
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [github.com/your-username](https://github.com/Samarcodesinpython)
 
 ---
 
